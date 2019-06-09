@@ -10,4 +10,4 @@ InstaVeri.giris()  # giris
 
 resimklasor = '/resim/resim.png'
 aciklama = "Test Resim"
-InstaVeri.uploadPhoto(resimklasor, aciklama=aciklama)
+InstaVeri.resimyukle(resimklasor, aciklama=aciklama)
